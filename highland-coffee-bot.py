@@ -58,8 +58,6 @@ class HighLandCoffeeBot:
                             if re.match("(\\d)", founds[0]):
                                 founds[0] = re.sub("(\\d) (cốc)?", r"\1 cốc ",
                                                    founds[0])
-                            elif "cốc" not in founds[0]:
-                                founds[0] = founds[0] + " cốc"
                         self.order_data[key] = founds[0]
                         if re.match('({para.item_name}|{para.item_size})', key) and re.match(
                                 "(\\d)", founds[0]):
