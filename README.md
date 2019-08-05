@@ -29,6 +29,8 @@ BOT: Đơn hàng của quý khách đã được xác nhận, bên high land bot
 
 ## Deploy
 
+Copy file `highland-coffee-bot.py` và file `knowledge/bot_data.json` tới nơi cài đặt
+
 ```text
 from highland-coffee-bot import HighLandCoffeeBot
 
