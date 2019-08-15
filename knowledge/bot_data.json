@@ -1,10 +1,10 @@
 {
   "paras": {
-    "{para.bot_name}": "high land bot",
-    "{para.company_name}": "hệ thống nhà hàng high land coffee"
+    "{para.bot_name}": "Highland Bot",
+    "{para.company_name}": "hệ thống nhà hàng Highland Coffee"
   },
   "regex_para": "{para\\.[^}]+}",
-  "start_node_id": 0,
+  "start_node_id": 1,
   "confirm_node_id": 5,
   "end_node_id": 6,
   "requires": {
@@ -66,35 +66,25 @@
     }
   },
   "stories": [
+    {},
     {
-      "node_id": 0,
+      "node_id": 1,
       "node_name": "start",
       "description": "Lời mở đầu của bot",
       "type": "bot",
       "match_regex": [],
       "message": [
-        "Kính chào quý khách, {para.bot_name} của {para.company_name} có thể giúp gì anh chị ạ",
-        "Kính chào quý khách, em là {para.bot_name} của {para.company_name} sẵn sàng phục vụ anh chị",
-        "Dạ, chào quý khách, {para.bot_name} của {para.company_name} có thể phục vụ gì cho quý khách ạ"
+        "Kính chào quý khách, {para.bot_name} của {para.company_name}. Quý khách muốn đặt loại đồ uống nào vậy ạ",
+        "Kính chào quý khách, em là {para.bot_name} của {para.company_name}. Quý khách muốn đặt loại đồ uống nào vậy",
+        "Dạ, chào quý khách, {para.bot_name} của {para.company_name}. Quý khách cho em xin tên đồ uống muốn đặt mua ạ"
       ],
       "start_over_message": [
-        "Rất xin lỗi quý khách vì sai sót, quý khách vui lòng cho {para.bot_name} xin lại thông tin đặt hàng của mình ạ."
-      ],
-      "error_message": []
-    },
-    {
-      "node_id": 1,
-      "node_name": "hỏi tên sản phẩm",
-      "description": "Hỏi tên món khách hàng muốn đặt",
-      "type": "bot",
-      "message": [
-        "Dạ, quý khách muốn đặt loại nào",
-        "Quý khách muốn đặt loại nào",
-        "Vâng ạ, vậy quý khách muốn đặt loại gì vậy"
+        "Quý khách vui lòng cho bên em xin lại thông tin đặt hàng ạ"
       ],
       "error_message": [
+        "Rất xin lỗi quý khách vì sai sót, quý khách vui lòng cho {para.bot_name} xin lại thông tin đặt hàng của mình ạ.",
         "Bên em đang có các món truyền thống như là cà phê phin, trà sen vàng, freeze cà phê. Quý khách muốn đặt loại nào vậy",
-        "cà phê phin, trà sen vàng, freeze cà phê là các món mà bọn em có, quý khách muốn đặt món nào ạ"
+        "Cà phê phin, trà sen vàng, freeze cà phê là các món nổi bật của Highland, không rõ quý khách muốn đặt món nào ạ"
       ]
     },
     {

@@ -26,7 +26,7 @@ class HighLandCoffeeBot:
         self.requires = bot_data["requires"]
         self.regex_para = bot_data["regex_para"]
         self.order_data = {}
-        self.prev_require = None
+        self.prev_require = self.requires["orders"][0]
         self.confirmed_count = 0
         self.welcomed = False
         self.ended = False
@@ -94,7 +94,7 @@ class HighLandCoffeeBot:
 
     def start_over(self):
         self.order_data = {}
-        self.prev_require = None
+        self.prev_require = self.requires["orders"][0]
         self.confirmed_count = 0
         self.welcomed = True
         self.ended = False
