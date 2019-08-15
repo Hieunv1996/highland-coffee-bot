@@ -17,9 +17,16 @@
     "{para.item_name}": {
       "node_id": 1,
       "match_regex": [
+        "cà phê .*đá",
+        "cà phê .*nóng",
+        "phin .*đá",
+        "phin .*nóng",
+        "capuccino",
         "cà phê phin",
+        "cà phê đen",
         "cà phê espresso",
-        "freeze cà phê phin",
+        "espresso",
+        "freeze cà phê",
         "freeze không cà phê",
         "trà sen vàng",
         "trà thạch đào",
@@ -36,7 +43,6 @@
         ".*([1-9] (?:size|cỡ) (?:lớn|nhỏ|vừa|to) [1-9] (?:size|cỡ) (?:lớn|nhỏ|vừa|to)).*",
         ".*((?:một|hai|ba|bốn|năm|sáu|bảy|tám|chín|\\d) (?:size|cỡ) (?:lớn|nhỏ|vừa|to) (?:một|hai|ba|bốn|năm|sáu|bảy|tám|chín|\\d) (?:size|cỡ) (?:lớn|nhỏ|vừa|to)).*",
         ".*(lớn|vừa|nhỏ|to).*"
-        
       ]
     },
     "{para.item_amount}": {
@@ -87,8 +93,8 @@
         "Vâng ạ, vậy quý khách muốn đặt loại gì vậy"
       ],
       "error_message": [
-        "Xin lỗi quý khách, {para.bot_name} chưa nghe rõ tên món quý khách muốn đặt",
-        "Quý khách có thể nhắc lại thông tin sản phẩm mà mình muốn đặt giúp {para.bot_name} không"
+        "Bên em đang có các món truyền thống như là cà phê phin, trà sen vàng, freeze cà phê. Quý khách muốn đặt loại nào vậy",
+        "cà phê phin, trà sen vàng, freeze cà phê là các món mà bọn em có, quý khách muốn đặt món nào ạ"
       ]
     },
     {
@@ -100,7 +106,6 @@
         "Dạ, quý khách muốn đặt cỡ lớn, nhỏ hay vừa vậy",
         "Dạ, bên em có cỡ lớn, vừa, nhỏ. Quý khách đặt cỡ nào vậy",
         "Quý khách muốn mua cỡ lớn, nhỏ hay vừa vậy ạ"
-        
       ],
       "error_message": [
         "Xin lỗi quý khách, {para.bot_name} chưa rõ số lượng {para.item_name} quý khách muốn đặt ạ",

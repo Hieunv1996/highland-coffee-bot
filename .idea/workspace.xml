@@ -2,7 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="319b7057-1061-4869-b16b-611ce2660959" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/bot_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/knowledge/bot_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part0.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part10.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part11.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part12.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part13.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part14.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part15.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part16.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part17.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part18.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part19.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part20.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part21.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part22.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part23.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part24.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part25.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part26.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part27.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part28.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part29.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part3.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part30.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part31.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part32.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part33.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part34.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part35.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part36.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part37.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part38.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part39.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part4.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part40.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part41.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part5.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part6.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part7.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part8.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledge/out/rules.txt_part9.out" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,15 +54,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/highland_coffee_callbot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1564972235665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/highland_coffee_callbot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1565860464882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/highland-coffee-bot.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="21" />
+            <state relative-caret-position="225">
+              <caret line="117" column="55" lean-forward="true" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="55" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -28,13 +71,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="238">
-                <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/knowledge/bot_data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/knowledge/lm_text.norm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="67">
+              <caret line="31749" column="27" selection-start-line="31749" selection-start-column="19" selection-end-line="31749" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -43,25 +92,19 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/rules/rules.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="263" selection-start-line="7" selection-start-column="263" selection-end-line="7" selection-end-column="263" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knowledge/bot_data.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="23" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="478">
+                <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -76,6 +119,7 @@
       <find>address</find>
       <find>pizza</find>
       <find>(tôi|anh|chị|em|mình|tớ|chú|cô|bác)	(đặt|mua|đặt mua|order)	(1|2|3|4|5|6|7|8|9|10)	(cốc)	(cà phê phin|cà phê e</find>
+      <find>nộn</find>
     </findStrings>
     <replaceStrings>
       <replace>user_address</replace>
@@ -89,11 +133,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bot.py" />
-        <option value="$PROJECT_DIR$/knowledge/bot_data.json" />
         <option value="$PROJECT_DIR$/knowledge/rules/rules.txt" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/highland-coffee-bot.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/knowledge/bot_data.json" />
       </list>
     </option>
   </component>
@@ -120,6 +164,12 @@
               <item name="highland-coffee-callbot" type="b2602c69:ProjectViewProjectNode" />
               <item name="highland-coffee-callbot" type="462c0819:PsiDirectoryNode" />
               <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="highland-coffee-callbot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="highland-coffee-callbot" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+              <item name="rules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,23 +243,24 @@
       <updated>1564908648927</updated>
       <workItem from="1564908650362" duration="4064000" />
       <workItem from="1564927189298" duration="3553000" />
-      <workItem from="1564970291079" duration="1515000" />
+      <workItem from="1564970291079" duration="2166000" />
+      <workItem from="1565859828753" duration="861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9132000" />
+    <option name="totallyTimeSpent" value="10644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="25" width="1867" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25809994" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32852387" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32852387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39977852" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -218,7 +269,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32963374" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -263,37 +314,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge/bot_data.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="26" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/highland-coffee-bot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="238">
-            <caret line="31" column="84" selection-start-line="31" selection-start-column="84" selection-end-line="31" selection-end-column="84" />
+          <first_editor relative-caret-position="478">
+            <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/out/rules.txt_part0.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/out/rules.txt_part0.out.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/lm_text.norm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="31749" column="27" selection-start-line="31749" selection-start-column="19" selection-end-line="31749" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/highland-coffee-bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="117" column="55" lean-forward="true" selection-start-line="117" selection-start-column="55" selection-end-line="117" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knowledge/bot_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
